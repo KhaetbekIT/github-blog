@@ -1,3 +1,5 @@
+[https://www.figma.com/design/eSxTFOQ7S19iWoCYGHQRx9/GitHub-Blog?node-id=2-1297&t=RW4Xb5koPBpprYGE-1](https://www.figma.com/design/eSxTFOQ7S19iWoCYGHQRx9/GitHub-Blog?node-id=2-1297&t=RW4Xb5koPBpprYGE-1)
+
 # **Техническое задание (ТЗ)**
 
 ## **Проект: Реализация веб-блог страницы**
